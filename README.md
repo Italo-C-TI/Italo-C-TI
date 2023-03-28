@@ -48,7 +48,7 @@
 ### Experiência de trabalho
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://educandoseubolso.blog.br/wp-content/uploads/2024/08/image-103.png"/>](https://beneficios.ifood.com.br/)
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://theme.zdassets.com/theme_assets/10676926/79fa9cc4cc7f9945b06074b0cbaaf2d362dad50c.png"/>](https://beneficios.ifood.com.br/)
 
 **Software Engineer** \
 [**Ifood**](https://beneficios.ifood.com.br/) • Full-time \
