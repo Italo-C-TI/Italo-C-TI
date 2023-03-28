@@ -48,10 +48,10 @@
 ### Experiência de trabalho
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://www.spacex.com/static/images/share.jpg"/>](https://www.spacex.com/)
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.anacouto.com.br%2Fwp-content%2Fuploads%2F2022%2F02%2FArtboard-1-scaled.jpg&tbnid=_eLyV8kacGa3yM&vet=10CAQQxiAoBmoXChMIyIuD4s3__QIVAAAAAB0AAAAAEAc..i&imgrefurl=https%3A%2F%2Fwww.anacouto.com.br%2Fcases%2Fifood-beneficios%2F&docid=niT5LPwmgoMYrM&w=2560&h=1440&itg=1&q=ifood%20beneficio%20imagem&ved=0CAQQxiAoBmoXChMIyIuD4s3__QIVAAAAAB0AAAAAEAc#imgrc=_eLyV8kacGa3yM&imgdii=l4oWCbq8lu6s0M"/>](https://beneficios.ifood.com.br/)
 
 **Software Engineer** \
-[**Ifood**](https://www.ifood.com/) • Full-time \
+[**Ifood**](https://beneficios.ifood.com.br/) • Full-time \
 Linguagens & Tecnologias: `React`, `Typescript`, `Styled-components`, `Jest`,\
 <br/>
 
