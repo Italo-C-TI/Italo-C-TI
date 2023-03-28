@@ -18,6 +18,7 @@
   ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
   ![PostgresSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
   ![JsonWebToken](https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink)
+  ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 
 **Utilidades**
 
@@ -52,7 +53,6 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 **Software Engineer** \
 [**Ifood**](https://www.ifood.com/) • Full-time \
 Linguagens & Tecnologias: `React`, `Typescript`, `Styled-components`, `Jest`,\
-Projetos em destaque: [Rocket](https://www.spacex.com/), [Marte](https://pt.wikipedia.org/wiki/Marte_(planeta))
 <br/>
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
