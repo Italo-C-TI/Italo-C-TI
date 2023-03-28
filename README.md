@@ -65,7 +65,7 @@ Linguagens & Tecnologias: `React`, `Typescript`, `Styled-components`, `Jest`,\
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
 [![Linkedin: Ítalo](https://img.shields.io/badge/-Italo_Costa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in//italo-costa-117583215/)](https://www.linkedin.com/in/italo-costa-117583215/)
-[![Gmail Badge](https://img.shields.io/badge/-costa.italo.ti@gmail.com@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:SEU-EMAIL)
+[![Gmail Badge](https://img.shields.io/badge/-costa.italo.ti@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:SEU-EMAIL)
 [![GitHub Italo-C-TI]( https://img.shields.io/github/followers/Italo-C-TI?label=follow&style=social)](https://github.com/Italo-C-TI)
 
 
