@@ -62,7 +62,7 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 
 **Software Engineer** \
 [**Ifood**](https://beneficios.ifood.com.br/) • Full-time \
-Linguagens & Tecnologias: `React`, `Typescript`, `Styled-components`, `Jest`,\
+Linguagens & Tecnologias: `React`, `Typescript`, `Styled-components`, `Jest`, `AWS`, `JAVA`\
 <br/>
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
