@@ -58,6 +58,14 @@
 ### Experiência de trabalho
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://cdn-images.frstfalconi.cloud/hall/imagefrst.png
+"/>](https://beneficios.ifood.com.br/)
+
+**Web developer - Front-END** \
+[**FRST-FALCONI**](https://frstfalconi.com/) • Full-time \
+Linguagens & Tecnologias: `Next`, `Typescript`, `Styled-components`, `React`, `MICRO-FRONTS`\
+<br/>
+
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://theme.zdassets.com/theme_assets/10676926/79fa9cc4cc7f9945b06074b0cbaaf2d362dad50c.png"/>](https://beneficios.ifood.com.br/)
 
 **Software Engineer** \
