@@ -5,9 +5,7 @@
 <h3> :man: &nbsp;Sobre mim </h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 &nbsp; Estudando Análise e desenvolvimento de sistemas no IFBA.
-- 💕 &nbsp; Apaixonado por tecnologia e mundos de fantasia.
-- 🚀 &nbsp; Busco deixar impacto positivo no mundo.
+- 🚀 &nbsp; Busco deixar impacto positivo por onde passo.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
