@@ -47,12 +47,6 @@
 
 <br/>
 
-<a href="https://github.com/Italo-C-TI">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Italo-C-TI&theme=algolia&show_icons=true&count_private=true" />
-</a>
-
-<br/>
-
 ### Experiência de trabalho
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
