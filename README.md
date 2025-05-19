@@ -48,7 +48,7 @@
 <br/>
 
 <a href="https://github.com/Italo-C-TI">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Italo-C-TI&theme=algolia&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Italo-C-TI&theme=algolia&show_icons=true&count_private=true" />
 </a>
 
 <br/>
